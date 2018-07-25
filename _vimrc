@@ -663,7 +663,8 @@ Bundle 'gmarik/vundle'
     " If you want :UltiSnipsEdit to split your window.
     let g:UltiSnipsEditSplit="vertical"
     let g:snips_author="Gene Jiang"
-    let g:snips_email = "zhengrong.jiang@chiefclouds.com"
+    let g:snips_email = "genejiang2012@outlook.com"
+	let g:snips_github ="https://github.com/genejiang2012"
     
 "}
 
